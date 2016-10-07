@@ -17,6 +17,10 @@ import com.vanilla.util.DateUtil;
 import com.vanilla.web.dao.MoneyDao;
 import com.vanilla.web.vo.MoneyVo;
 
+/**
+ * @author OCKJA
+ *
+ */
 @Controller
 public class MoneyController {
 	
