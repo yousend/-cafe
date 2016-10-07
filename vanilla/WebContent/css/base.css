@@ -1,0 +1,28 @@
+@CHARSET "EUC-KR";
+
+div,p,dt,dd,li,th,td,span { font-size:12px; font-family:"Malgun Gothic","Apple SD Gothic Neo",Dotum; color:#807F83; }
+
+
+
+div #wrap { min-height:100%; position:relative; width:100%; }
+
+
+header { background-color:#f8ed6d; height:50px; }
+header #headerTitle { font-size:30px; color:#ffffff; font-weight:bold; }
+
+div #contents { margin:10px 0; padding-bottom:150px; }
+
+footer { margin-top:-150px; background-color:#ffffff; height:150px; color:#400040; clear: both; position: relative; }
+
+
+
+
+.button { width:100px; 
+		  height:30px; 
+		  background-color:#f8ed6d;
+		  border:1px solid #ffffff; 
+		  border-radius:5px;
+		  -webkit-appearance: none;
+		  margin:10px 0; }
+
+
